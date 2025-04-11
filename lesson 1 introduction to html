@@ -1,1 +1,31 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width">
+
+<title>replit</title>
+
+<link href="style.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+    <h1>AL NASSER COLLEGE</h1>
+    it is <i>124 years old</i><br>
+    it's address is ST.JOSAPH ROAD,GRAND PASS,
+Colombo 14.<br>
+      
+            there are 
+            <mark>4535 students</mark>
+            in my school.<br>
+            tere are 12 buildings in my school.<br>
+            my school quatation is - <br>
+            <q>try to learn hard,and try to work smart</q>
+            </body>
+            </html>
 
