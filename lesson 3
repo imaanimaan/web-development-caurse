@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width">
+
+<title>replit</title>
+
+<link href="style.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+    <h1>my favourite food</h1>
+
+<h2>Ordered List</h2>
+
+<ol>
+
+<li>fried rice</li>
+
+<li>kottu</li>
+
+<li>biriyani</li>
+
+</ol>
+
+<h2>Unordered List</h2>
+
+<ul>
+
+<li>fried rice</li>
+
+<li>kottu</li>
+
+<li>biriyani</li>
+
+</ul>
+
+<h2>Defination List</h2>
+
+<dl>
+
+<dt>fried rice</dt>
+
+<dt>kottu</dt>
+
+<dt>biriyani</dt>
+
+</dl>
+
+</body>
+
+</html>
