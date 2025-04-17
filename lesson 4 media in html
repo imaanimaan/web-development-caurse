@@ -13,5 +13,12 @@
         <source src=".css" rel="stylesheet" type="text/css" />"
         Your browser does not support the audio tag.
     </audio>
+
+    <p>This is one of my favourite video</p>
+    <video width="400" height="300" controls autoplay poster="image.jpg" loop>
+        <source src="file:///C:/Users/imaan/Downloads/video-259723325.webm" type="video/mp4">
+        Your browser doews not support the video tag
+    </video>
 </body>
 </html>
+
