@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="widh=device-widh">
+    <title>replit</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />"
+</head>
+<body>
+    <h2> This is one of my my favourie song</h2>
+    <audio controls autoplay>
+        <source src=".css" rel="stylesheet" type="text/css" />"
+        Your browser does not support the audio tag.
+    </audio>
+</body>
+</html>
