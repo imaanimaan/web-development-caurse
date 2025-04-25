@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="widh=device-widh">
+    <title>replit</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />"
+</head>
+<body>
+    <form>
+        <fieldset>
+            <!--The fieldset tag is used to group related elements in a form and draws a box around them-->
+            <legend>Personal Information:</legend>
+            <lable>Full name:</lable>
+            <!--place holder attribute can be used to provide extra information about entry to made-->
+            <input type="text" id="infame"place holder="Enter Name"><br><br>
+            <lable>Email:</lable>
+            <input type="text" id="email"><br><br>
+            <label>Gender:</label><br>
+            <input type="radio" id="Gender" value="female">Female<br>
+            <input type="radio" id="Gender" value="male">male<br>
+            <label>birthday:</label>
+            <input type="date" id="birthday" name="birthday"><br><br>
+        </fieldset>
+    </form>
+</body>
+</html>
