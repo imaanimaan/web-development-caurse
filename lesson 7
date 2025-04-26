@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<style>
+
+#grad1 {
+
+height: 555px;
+
+background-color: red; /* For browsers that do not support gradients */
+
+background-image: linear-gradient(to top right, red, orange, yellow, green, blue, indigo, violet);
+
+}
+
+</style>
+
+</head>
+
+<body>
+    
+
+<div id="grad1" style="text-align:center;margin:auto;color:#442fbd;font-size:40px;font-weight:bold">
+
+Web development
+<p>Web development involves the creation, building, and maintenance of websites and web applications. It encompasses a broad range of tasks, including coding, technical design, and performance optimization. Web development can be classified into two main categories: front-end development and back-end development.</p><br><br>
+<p>Front-end development, also known as client-side development, focuses on the user interface (UI) and the visual aspects of a website or application. Front-end developers use technologies such as HTML, CSS, and JavaScript to create the layout, style, and interactive elements that users see and interact with. Popular front-end frameworks and libraries include Bootstrap, React, and AngularJS.</p><br><br>
+<p>Back-end development, also known as server-side development, deals with the server, database, and application logic that power the website behind the scenes. Back-end developers use programming languages such as PHP, Java, Python, and Node.js to create APIs, manage databases, and handle server-side operations
+    2
+    . Popular back-end frameworks include Django, Flask, and Express
+    2
+    .</p>
+</div>
+
+</body>
+
+</html>
