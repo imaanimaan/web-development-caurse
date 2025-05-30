@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<title>mark</title>
+
+<meta charset="utf-8">
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+</head>
+
+<body style="background-color: rgb(80, 80, 110);"></body>
+   
+
+<p>CO<sub>2</sub></p>
+
+<p>a<SUP>2</SUP>
+
+<div class="container">
+
+<h1>cricket</h1>
+
+<p>Cricketis a<span style="background-color: green; color: white;">bat-and-ball</span>   game played between<mark>two teams of eleven players</mark> , known for its rich history and various formats, including Test matches, One Day Internationals (ODIs), and Twenty20 (T20) cricket.</p>
+
+</div>
+
+
+
+</body>
+
+</html>
